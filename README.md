@@ -1,4 +1,4 @@
-# CluodSync
+# CloudSync
 build rich cloud-enabled apps that sync their data to a remote web service, making sure all your devices always stay in sync so that users can restore their data when installing your application on a new device. For situations where the volume of data is relatively light (less than a megabyte), like the user's preferences, notes, game high scores or other stats, the Backup API provides a lightweight solution.
 
 Step 1: Register for Android Backup Service at https://developer.android.com/google/backup/signup.html?csw=1  its free.
